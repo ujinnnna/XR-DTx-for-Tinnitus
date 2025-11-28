@@ -1,16 +1,17 @@
-# [XR] Tinnitus Cognitive Therapy Program (MR)
+#  <img src="https://github.com/user-attachments/assets/92e52cba-f653-42d8-83c2-559bca9b60c7" width="80" alt="ItsSoRealItsRealGIF"> Tinnitus Cognitive Therapy Program 
 **이명(Tinnitus) 환자를 위한 MR 기반 인지 행동 치료(CBT) 콘텐츠**
 
 <br>
 
-> ## 🔒 Confidentiality Notice
+
+> ##  Confidentiality Notice
 > 본 프로젝트는 의료기관 및 기업과의 비밀유지계약(NDA)에 의거하여, 실제 구현 화면(스크린샷), 병원명, 상세 치료 프로토콜은 공개하지 않습니다.
 >
 > 본 문서는 개발자가 담당한 **시스템 최적화, 구현 기술, 협업 방식**을 중심으로 기술되었습니다.
 
 <br>
 
-## 📋 Project Overview
+##  Project Overview
 이명 환자의 증상 완화와 심리적 안정을 돕기 위한 **Mixed Reality(MR) 디지털 치료제**입니다.
 이명에 대한 교육과 이완 훈련 과정을 가상 가이드(Mascot)와 함께 진행하며, 컨트롤러 없이 맨손으로 상호작용할 수 있는 몰입형 콘텐츠입니다.
 
@@ -21,7 +22,7 @@
 
 <br>
 
-## 🛠 Tech Stack
+##  Tech Stack
 | Category | Technology |
 | :--- | :--- |
 | **Engine** | Unity 6.0 LTS (C#) , Blender (최적화)|
@@ -29,7 +30,7 @@
 
 <br>
 
-## 💻 Key Implementations & Optimization
+##  Key Implementations & Optimization
 
 ### 1. Performance Optimization for Standalone VR
 Quest 3 환경에서 고품질 비주얼과 72fps 이상의 안정적인 프레임 방어를 위해 **최적화 작업**에 개발 역량을 집중했습니다.
@@ -59,7 +60,7 @@ XR HMD 경험이 적은 환자들의 특성을 고려하여, 컨트롤러 없이
 
 <br>
 
-## 🤝 Collaboration Process
+##  Collaboration Process
 기획자 겸 디자이너 1인과 개발자 1인으로 구성된 소규모 팀으로 협업했습니다.
 
 * **Rapid Prototyping:** 기획/디자인 리소스가 나오면 즉시 유니티에 적용하고, XR 기기에서 확인 후 피드백을 반영하는 빠른 루틴으로 협업.
@@ -67,7 +68,7 @@ XR HMD 경험이 적은 환자들의 특성을 고려하여, 컨트롤러 없이
 
 <br>
 
-## 📩 Contact
+## Contact
 
 -  개발자: **나우진**
 -  이메일: [uujin314@icloud.com](mailto:uujin314@icloud.com)
