@@ -1,4 +1,4 @@
-#  <img src="https://github.com/user-attachments/assets/92e52cba-f653-42d8-83c2-559bca9b60c7" width="80" alt="ItsSoRealItsRealGIF"> Tinnitus Cognitive Therapy Program 
+#  Tinnitus Cognitive Therapy Program 
 **이명(Tinnitus) 환자를 위한 MR 기반 인지 행동 치료(CBT) 콘텐츠**
 
 <br>
