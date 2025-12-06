@@ -7,7 +7,16 @@
 > ##  Confidentiality Notice
 > 본 프로젝트는 의료기관 및 기업과의 비밀유지계약(NDA)에 의거하여, 실제 구현 화면(스크린샷), 병원명, 상세 치료 프로토콜은 공개하지 않습니다.
 >
-> 본 문서는 개발자가 담당한 **시스템 최적화, 구현 기술, 협업 방식**을 중심으로 기술되었습니다.  
+> 본 문서는 개발자가 담당한 **시스템 최적화, 구현 기술, 협업 방식**을 중심으로 기술되었습니다.
+
+<br>
+
+##  Testing & Verification
+| **Cognitive Therapy Session** | **On-Site Demonstration** |
+| :---: | :---: |
+| <img src="Images/Tinnitus.JPG" alt="Therapy Session Demo" width="60%"> | <img src="Images/Quest.JPG" alt="On-site Quest 3 Demo" width="60%"> |
+| *이명 인지 치료 세션 체험 및 검증* | *병원 원내 실제 기기 시연 및 테스트* |
+
 
 <br>
 
